@@ -17,7 +17,7 @@ Ini adalah aplikasi web penerjemah bahasa sederhana yang dibangun menggunakan HT
 1. Kloning repositori ke mesin lokal Anda:
 
 ``` pesta
-git clone https://github.com/Venkateeshh/Js-Language-Translator.git
+git clone (https://github.com/denis156/penerjemah-bahasa.git)
 ```
 
 2. Buka file `index.html` di browser web Anda.
