@@ -28,10 +28,6 @@ git clone (https://github.com/denis156/penerjemah-bahasa.git)
 
 5. Klik tombol "Terjemahkan" untuk mendapatkan teks terjemahan.
 
-## Demo
-
-Untuk demonstrasi langsung aplikasi web penerjemah bahasa, Anda dapat mengunjungi tautan berikut: [Demo Penerjemah Bahasa](https://Denis13.github.io/penerjemah-bahasa/)
-
 # Masukan dan Kontribusi
 
 Jika Anda menemukan masalah apa pun dengan aplikasi atau memiliki saran untuk perbaikan, jangan ragu untuk membuat masalah atau mengirimkan permintaan penarikan di repositori GitHub. Masukan dan kontribusi Anda sangat kami hargai!
