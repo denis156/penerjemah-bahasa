@@ -30,7 +30,7 @@ git clone (https://github.com/denis156/penerjemah-bahasa.git)
 
 ## Demo
 
-Untuk demonstrasi langsung aplikasi web penerjemah bahasa, Anda dapat mengunjungi tautan berikut: [Demo Penerjemah Bahasa](https://denis156.github.io/penerjemah-bahasa/)
+Untuk demonstrasi langsung aplikasi web penerjemah bahasa, Anda dapat mengunjungi tautan berikut: [Demo Penerjemah Bahasa](https://Denis13.github.io/penerjemah-bahasa/)
 
 # Masukan dan Kontribusi
 
