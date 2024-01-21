@@ -37,3 +37,16 @@ Jika Anda menemukan masalah apa pun dengan aplikasi atau memiliki saran untuk pe
 Aplikasi web penerjemah bahasa ini dikembangkan dan dikelola oleh [Denis13](https://github.com/denis156). Saya seorang pengembang web yang bersemangat dengan minat dalam membangun proyek yang berguna dan inovatif menggunakan berbagai teknologi web.
 
 Terima kasih telah memeriksa proyek ini! Jika dirasa bermanfaat, jangan lupa memberi bintang dan membagikannya kepada orang lain. Selamat menerjemahkan!
+
+# Gambar Aplikasi
+**Mode Siang** 
+![Mode Siang](https://github.com/denis156/penerjemah-bahasa/blob/main/images/Siang.png)
+
+**Mode Malam** 
+![Mode Malam](https://github.com/denis156/penerjemah-bahasa/blob/main/images/Malam.png)
+
+**Ubah Bahasa** 
+![Ubah Bahasa](https://github.com/denis156/penerjemah-bahasa/blob/main/images/Ubah.png)
+
+
+
