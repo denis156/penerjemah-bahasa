@@ -45,8 +45,8 @@ Terima kasih telah memeriksa proyek ini! Jika dirasa bermanfaat, jangan lupa mem
 **Mode Malam** 
 ![Mode Malam](https://github.com/denis156/penerjemah-bahasa/blob/main/images/Malam.png)
 
-**Ubah Bahasa** 
-![Ubah Bahasa](https://github.com/denis156/penerjemah-bahasa/blob/main/images/Ubah.png)
+**Bahasa** 
+![Bahasa](https://github.com/denis156/penerjemah-bahasa/blob/main/images/Bahasa.png)
 
 
 
